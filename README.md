@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gontoracq
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Econimics and Healthcare
+- 💞️ I’m looking to collaborate in any Data Science project
 - 📫 How to reach me torres1991g@gmail.com
 
 <!---
