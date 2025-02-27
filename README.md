@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gontoracq
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Salesforce and Software Architecture
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate in any Data Science project
+- 💞️ I’m looking to collaborate in any project project about software development
 - 📫 How to reach me torres1991g@gmail.com
 
 <!---
